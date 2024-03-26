@@ -15,9 +15,9 @@ Projects:
 9. Deep Learning Systems : Super Resolution GAN
                
 Core competancies:
-Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics,
-Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Ggplot2), SQL, C++
-Tools: MySQL, PowerBi, Grafana, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics,
+- Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Ggplot2), SQL, C++
+- Tools: MySQL, PowerBi, Grafana, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
 Certificates:
 1. Machine learning
