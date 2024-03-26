@@ -5,16 +5,16 @@ Compilation of all data science projects I have done so far during my undergrad 
 
 Projects: 
 1. Smart Glasses for Indoor Object Detection to Assist Visually Impaired using RaspberryPi:
-   - This Project talks about object detection using a set up a real time object detection by connecting a camera to RaspberryPi and providing an audio output to the end user, which can be be usued by visually impaired. It is a prototype which requires further fine tuning of setup and latency. For the object detection we used the TensorFlow API and COCO SSD Mobile Net v1, with less than 1% training loss. 
+- This Project talks about object detection using a set up a real time object detection by connecting a camera to RaspberryPi and providing an audio output to the end user, which can be be usued by visually impaired. It is a prototype which requires further fine tuning of setup and latency. For the object detection we used the TensorFlow API and COCO SSD Mobile Net v1, with less than 1% training loss. 
 
 2. Classroom Scene Recognition for monitoring using MobileNet:
-   - This project revolves around indoor scene detection It mainly talks about identifying the indoor scene from broadly 4 categories concert hall, meeting hall, auditorium. The model is trained on the MIT67 data, which is a pre defined dataset. We first applied the machine learning approaches of feture extraction using GIST, DAISY, and HOG for features and used SVM as a classifier. In order to improve the model, we later trained a model by applying transfer learning with MobileNet and Keras. Once the scene identification is done, we focus on detecting and identifying the number of students using haar classifier, followed by binary classfication of gender using CNN.
+- This project revolves around indoor scene detection It mainly talks about identifying the indoor scene from broadly 4 categories concert hall, meeting hall, auditorium. The model is trained on the MIT67 data, which is a pre defined dataset. We first applied the machine learning approaches of feture extraction using GIST, DAISY, and HOG for features and used SVM as a classifier. In order to improve the model, we later trained a model by applying transfer learning with MobileNet and Keras. Once the scene identification is done, we focus on detecting and identifying the number of students using haar classifier, followed by binary classfication of gender using CNN.
 
 3. ASL Classification for 3D point cloud using PointNet:
-  - Focused identifying american sign language and comprehending it so that it can create co-existing environment. The data points consist 24 static alphabets of 3-D point clouds instead of 2-D data. The data points were captured using a pointflex camera. For visualisation and analysis of the point cloud, we used meshlab. For pre-processing and classification, we used the pointnet architecture.
+- Focused identifying american sign language and comprehending it so that it can create co-existing environment. The data points consist 24 static alphabets of 3-D point clouds instead of 2-D data. The data points were captured using a pointflex camera. For visualisation and analysis of the point cloud, we used meshlab. For pre-processing and classification, we used the pointnet architecture.
     
 4. Data Mining Course Project :
-  - PCOS prediction using ML. The project involves around applying concepts on data mining. To do so, we chose a PCOS dataset from kaggle. There are several women affected by this and though eda we found that features like Follicle number, weight gain, cycle (R/I), skin darkening
+- PCOS prediction using ML. The project involves around applying concepts on data mining. To do so, we chose a PCOS dataset from kaggle. There are several women affected by this and though eda we found that features like Follicle number, weight gain, cycle (R/I), skin darkening
 and hair growth contribute the most towards prediction of PCOS. Out of classfiiers bagging, random forest and adaboost, random forest gives a decent accuracy of 91%.
 
 5. Time Series Analysis : Energy Analytics and Prediction
@@ -35,10 +35,10 @@ Amazon Rekognition and Amazon SageMaker, the project proposes a solution to enha
 loss, PSNR, and SSIM, demonstrate the efficacy of the model on celebHQ and div2K datasets.
   
 Work experience:
-1. Axonet Systems - Summer Internship , May 2019 Aug 2019 
-2. Anubhooti Solutions - Intern , Jan 2021 - May 2021
-3. Continental India - Intern , Aug 2021 - May 2022
-4. Magna International - Data Science Intern , May 2023- Aug 2023 
+1. Axonet Systems, Pune, India - Summer Internship , May 2019 Aug 2019 
+2. Anubhooti Solutions, Pune, India - Intern , Jan 2021 - May 2021
+3. Continental, India - Intern , Aug 2021 - May 2022
+4. Magna International, USA. - Data Science Intern , May 2023- Aug 2023 
                
 Core competancies:
 - Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics,
