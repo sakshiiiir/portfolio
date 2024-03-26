@@ -4,15 +4,15 @@ Compilation of all data science projects I have done during my undergrad and mas
   - LinkedIn: https://www.linkedin.com/in/sakshi-rathi-51842a15a/
 
 Projects: 
-1. Smart Glasses for Indoor Object Detection to Assist Visually Impaired using RaspberryPi.
-2. Classroom Scene Recognition for monitoring using MobileNet
-3. ASL Classification for 3D point cloud using PointNet
-4. Data Mining Course Project : PCOS prediction using ML.
-5. Time Series Analysis : Energy Analytics and Prediction
-6. Social Media Mining : Deep Learning Approach for Multiclass Sentiment Analysis of Customer Reviews
-7. Exploratory Data Analysis: Mental Health
-8. Engineering Cloud Computing : Skin Cancer Using AWS
-9. Deep Learning Systems : Super Resolution GAN
+1. Smart Glasses for Indoor Object Detection to Assist Visually Impaired using RaspberryPi : https://github.com/sakshiiiir/Smart-Glasses-for-Indoor-Object-Detection
+3. Classroom Scene Recognition for monitoring using MobileNet
+4. ASL Classification for 3D point cloud using PointNet
+5. Data Mining Course Project : PCOS prediction using ML.
+6. Time Series Analysis : Energy Analytics and Prediction
+7. Social Media Mining : Deep Learning Approach for Multiclass Sentiment Analysis of Customer Reviews
+8. Exploratory Data Analysis: Mental Health
+9. Engineering Cloud Computing : Skin Cancer Using AWS
+10. Deep Learning Systems : Super Resolution GAN
                
 Core competancies:
 - Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics,
