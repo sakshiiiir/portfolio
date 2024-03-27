@@ -1,9 +1,7 @@
-# Data Science Portfolio
-Compilation of all data science projects I have done so far during my undergrad and masters. This also includes my certificates and skills.
-  - Email : sakshi.k.rathi@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/sakshi-k-rathi/
+## Data Science Portfolio
+[Email](sakshi.k.rathi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakshi-k-rathi/) | [Github](https://github.com/sakshiiiir)
   
-#### Skills
+#### Techical Skills
 - Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics,
 - Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Ggplot2), SQL, C++
 - Tools: MySQL, PowerBi, Grafana, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
