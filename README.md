@@ -1,7 +1,7 @@
-# Data Science Portfolio: Sakshi Rathi
+# Data Science Portfolio
 Compilation of all data science projects I have done so far during my undergrad and masters. This also includes my certificates and skills.
   - Email : sakshi.k.rathi@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/sakshi-rathi-51842a15a/
+  - LinkedIn: https://www.linkedin.com/in/sakshi-k-rathi/
   
 #### Skills
 - Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics,
