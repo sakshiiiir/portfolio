@@ -14,17 +14,17 @@ BTech Electronics and Telecommunication Vishwarkarma Institute of Technology Aug
 
 #### Work Experience
 Magna International, USA. - Data Science Intern , May 2023- Aug 2023
-•	Calculated and optimized chiller efficiency within injection moulding machines, analysing overall performance.
-•	Applied machine learning models to analyse chiller tank level data, contributing to the creation of predictive models for optimizing efficiency and performance in the injection moulding machines.
-•	Developed an interactive dashboard using Grafana and InfluxDB for real-time monitoring and visualization enabling data-driven decision-making and proactive maintenance strategies.
+- Calculated and optimized chiller efficiency within injection moulding machines, analysing overall performance.
+- Applied machine learning models to analyse chiller tank level data, contributing to the creation of predictive models for optimizing efficiency and performance in the injection moulding machines.
+- Developed an interactive dashboard using Grafana and InfluxDB for real-time monitoring and visualization enabling data-driven decision-making and proactive maintenance strategies.
 
 Continental, India - Intern , Aug 2021 - May 2022
-• Collaborated on the semantic segmentation of Radar Environment using PointNet++ and a Neural Network-based Drop-in Drop-out classifier. Managed data access through a MongoDB server and assisted network training (CNN and LSTM) within the ReDViNe framework.
-•	Gained valuable experience in time series feature selection for road segmentation tasks, employing advanced techniques such as sliding window analysis and correlation-based feature selection methods.
+- Collaborated on the semantic segmentation of Radar Environment using PointNet++ and a Neural Network-based Drop-in Drop-out classifier. Managed data access through a MongoDB server and assisted network training (CNN and LSTM) within the ReDViNe framework.
+- Gained valuable experience in time series feature selection for road segmentation tasks, employing advanced techniques such as sliding window analysis and correlation-based feature selection methods.
 
 Anubhooti Solutions, Pune, India - Intern , Jan 2021 - May 2021
-• Implemented a robust device classification system by extracting Fast Fourier Transform (FFT) spectral mean features and implementing a Support Vector Machine (SVM) model, achieving a maximum accuracy of 80%.
-•	Designed and implemented an Automatic Speech Recognition (ASR) system by leveraging transfer learning techniques, utilizing the pre-trained LibriSpeech model as a foundation, and training a customized model on Mel-Frequency Cepstral Coefficient (MFCC) features within a Hidden Markov Model (HMM) framework for monophonic and triphone acoustic modelling, resulting in an impressive 95% accuracy.
+- Implemented a robust device classification system by extracting Fast Fourier Transform (FFT) spectral mean features and implementing a Support Vector Machine (SVM) model, achieving a maximum accuracy of 80%.
+- Designed and implemented an Automatic Speech Recognition (ASR) system by leveraging transfer learning techniques, utilizing the pre-trained LibriSpeech model as a foundation, and training a customized model on Mel-Frequency Cepstral Coefficient (MFCC) features within a Hidden Markov Model (HMM) framework for monophonic and triphone acoustic modelling, resulting in an impressive 95% accuracy.
 
 #### Projects
 
