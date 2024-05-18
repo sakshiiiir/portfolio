@@ -74,7 +74,7 @@ Vishwakarma Institute of Technology, Aug 2017 - May 2021
 ## Certificates
 
 1. Machine Learning
-2. Deep Learning Specialization by deeplearning.ai
+2. [Deep Learning Specialization by deeplearning.ai](https://coursera.org/share/6d0e28913d35181cd1bcf9450cd35750)
 3. SQL for Data Science
 4. Fundamentals of the Databricks Lakehouse Platform
 5. Databricks Azure Platform Architect
