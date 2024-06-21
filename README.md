@@ -5,9 +5,9 @@
 ## Technical Skills
 
 - **Programming Languages:** C, C++, Python (NumPy, Pandas, Matplotlib, SciPy, Keras, TensorFlow, Flask), R (Dplyr, Tidyr, Ggplot2), MATLAB, SQL, Git.
-- **Data Visualization:** Matplotlib, Plotly, Grafana, Microsoft Power BI, Tableau, Microsoft Excel.
+- **Data Visualization:** Matplotlib, Plotly, Grafana, Microsoft Power BI, Microsoft Excel.
 - **Database:** MySQL, InfluxDB, MongoDB.
-- **Big Data and Cloud Platforms:** PySpark, Hadoop, Azure Databricks, Jetstream, AWS, GCP.
+- **Big Data and Cloud Platforms:** PySpark, Hadoop, Azure, AWS, Apache AirFlow, Apacha Kafka 
 - **Machine Learning:** SVM, Neural Networks, Hypothesis Testing, Natural Language Processing, Time Series Analysis.
 
 ## Education
@@ -21,17 +21,19 @@ Vishwakarma Institute of Technology, Aug 2017 - May 2021
 ## Work Experience
 
 **Magna International, USA - Data Science Intern**, May 2023 - Aug 2023
-- Calculated and optimized chiller efficiency within injection moulding machines, analyzing overall performance.
-- Applied machine learning models to analyze chiller tank level data, contributing to the creation of predictive models for optimizing efficiency and performance in the injection moulding machines.
-- Developed an interactive dashboard using Grafana and InfluxDB for real-time monitoring and visualization, enabling data-driven decision-making and proactive maintenance strategies.
+- Created an interactive Grafana dashboard integrated with InfluxDB to display real-time statuses of chiller room equipment, applied color-coded thresholds for monitoring, and with 5% boost in operational efficiency.
+- Predicted chiller tank levels to prevent overflow and underflow using regression analysis with a random forest model with a rmse of 0.1, utilizing the power consumption of injection molding machines.
+- Evaluated chiller efficiency by analysing power consumption and chiller capacity, identifying fluctuations in efficiency curves to assess consistency and detect seasonality patterns.
 
 **Continental, India - Intern**, Aug 2021 - May 2022
-- Collaborated on the semantic segmentation of Radar Environment using PointNet++ and a Neural Network-based Drop-in Drop-out classifier. Managed data access through a MongoDB server and assisted network training (CNN and LSTM) within the ReDViNe framework.
-- Gained valuable experience in time series feature selection for road segmentation tasks, employing advanced techniques such as sliding window analysis and correlation-based feature selection methods.
+- Collaborated on semantic segmentation of radar environments using PointNet++ for point cloud processing and implemented a neural network-based drop-in drop-out classifier for vehicle movement classification.
+- Managed data access through MongoDB, analysing ADAS sensor data to optimize vehicle speed control based on real-time inputs from the drop-in drop-out classifier.
+- Performed time series feature engineering and analysis for road segmentation employing sliding window analysis and correlation-based feature selection methods.
 
 **Anubhooti Solutions, Pune, India - Intern**, Jan 2021 - May 2021
-- Implemented a robust device classification system by extracting Fast Fourier Transform (FFT) spectral mean features and implementing a Support Vector Machine (SVM) model, achieving a maximum accuracy of 80%.
-- Designed and implemented an Automatic Speech Recognition (ASR) system by leveraging transfer learning techniques, utilizing the pre-trained LibriSpeech model as a foundation, and training a customized model on Mel-Frequency Cepstral Coefficient (MFCC) features within a Hidden Markov Model (HMM) framework for monophonic and triphone acoustic modeling, resulting in an impressive 95% accuracy.
+- Implemented a robust device classification system by extracting Fast Fourier Transform (FFT) spectral mean features and SVM model, achieving accuracy of 80%.
+- Engineered an ASR data pipeline data recordings from 20 speakers and developed scripts to generate metadata files and curated a corpus for data annotation.
+- Designed ASR trained model using transfer learning from pre-trained LibriSpeech models, achieving 95% accuracy through advanced techniques in MFCC-based feature extraction for monophonic and triphone acoustic modelling.
 
 ## Projects
 
@@ -81,3 +83,4 @@ Vishwakarma Institute of Technology, Aug 2017 - May 2021
 6. [Build Dashboards in PowerBi](https://coursera.org/share/f7cdf7f465a8d1431788fae0c87edb28)
 7. [Introduction to Large Language Models](https://coursera.org/share/76f2e361385b84d6273c591e01b69330)
 8. [Introduction to Generative AI](https://coursera.org/share/047eb12c6a8c789529d8f67e5785cfe9)
+9. [ETL and Data Pipelines with Shell, Airflow and Kafka by IBM](https://coursera.org/share/4b7999dac3602399a1dea81d909f5534)
