@@ -48,7 +48,7 @@ Vishwakarma Institute of Technology, Aug 2017 - May 2021
 **[Credit Card Financial Dashboard](https://github.com/sakshiiiir/Credit_Card-Financial_Dashboard)**
 - Created a dynamic and informative dashboard showcasing various performance indicators related to credit card operations, involving data importation, processing, visualization, and updating.
 
-**[Massachusetts General Hospital Dashboard](https://github.com/sakshiiiir/Massachusetts-General-Hospital-PowerBi-Dashboard)**
+**[Massachusetts General Hospital Dashboard](https://github.com/sakshiiiir/Massachusetts-General-Hospital-Dashboard)**
 - Built an effective KPI dashboard for analyzing hospital visit dynamics, capturing patient distribution by gender and age, and insurance claims details such as payer coverage and patient burden, in PowerBi and analysis in python.
 
 ### Machine Learning
