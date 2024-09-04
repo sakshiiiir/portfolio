@@ -6,34 +6,54 @@
 
 - **Programming Languages:** C, C++, Python (NumPy, Pandas, Matplotlib, SciPy, Keras, TensorFlow, Flask), R (Dplyr, Tidyr, Ggplot2), MATLAB, SQL, Git.
 - **Data Visualization:** Matplotlib, Plotly, Grafana, Microsoft Power BI, Microsoft Excel.
-- **Database:** MySQL, InfluxDB, MongoDB.
+- **Database:** MySQL, InfluxDB, MongoDB. MS SQL Server
 - **Big Data and Cloud Platforms:** PySpark, Hadoop, Azure, AWS, Apache AirFlow, Apacha Kafka 
 - **Machine Learning:** SVM, Neural Networks, Hypothesis Testing, Natural Language Processing, Time Series Analysis.
 
 ## Education
 
-**Master's in Data Science**  
+**Master's in Data Science**  GPA 3.7/4
 Indiana University Bloomington, Aug 2022 - May 2024
 
-**BTech in Electronics and Telecommunication**  
+**BTech in Electronics and Telecommunication**  GPA 9.04/10
 Vishwakarma Institute of Technology, Aug 2017 - May 2021
 
 ## Work Experience
 
-**Magna International, USA - Data Science Intern**, May 2023 - Aug 2023
-- Created an interactive Grafana dashboard integrated with InfluxDB to display real-time statuses of chiller room equipment, applied color-coded thresholds for monitoring, and with 5% boost in operational efficiency.
-- Predicted chiller tank levels to prevent overflow and underflow using regression analysis with a random forest model with a rmse of 0.1, utilizing the power consumption of injection molding machines.
-- Evaluated chiller efficiency by analysing power consumption and chiller capacity, identifying fluctuations in efficiency curves to assess consistency and detect seasonality patterns.
+**Hoosier Community Network - Data Analyst**, Jun 2024 - Present 
+- Orchestrated 5+ data pipelines using Azure Data Factory to process and store raw CSV, Excel, XML, and JSON data from the US
+Census across 70+ counties in Azure Blob Storage, which enhanced data discoverability and improved storage efficiency.
+- Performed API testing in Postman to validate data integrity and correctness, which resulted in 30% reduction in data errors and
+enhanced overall data reliability for stakeholders.
+- Created analytical dashboards in PowerBi with DAX and Power Query to visualize time-series and geospatial education data, to make
+data-driven decisions.
 
-**Continental, India - Intern**, Aug 2021 - May 2022
-- Collaborated on semantic segmentation of radar environments using PointNet++ for point cloud processing and implemented a neural network-based drop-in drop-out classifier for vehicle movement classification.
-- Managed data access through MongoDB, analysing ADAS sensor data to optimize vehicle speed control based on real-time inputs from the drop-in drop-out classifier.
-- Performed time series feature engineering and analysis for road segmentation employing sliding window analysis and correlation-based feature selection methods.
+**Magna International, USA - Data Scientist**, May 2023 - Aug 2023
+- Developed python ETL pipeline to extract sensor data via APIs, performed imputation and cleaning, and stored it in InfluxDB,
+effectively managing 80+ GB of time-series big data from 10+ sensors, optimizing data consistency.
+- Integrated the database with Grafana utilizing APIs to create interactive dashboards for time series forecasting using ARIMA for sensor
+anomaly detection, resulting in 20% improvement in operational functions through real-time monitoring .
+- Classified chiller tank flow using statistical models - logistic regression, decision trees, random forest, with power consumption data
+from 100+ injection molding machines, resulting in 10% reduction in malfunctions.
+- Analyzed chiller efficiency using chiller metrics, identified seasonality trends, and visualized the efficiency curve in Grafana, resulting in
+a 20% improvement in performance.
 
-**Anubhooti Solutions, Pune, India - Intern**, Jan 2021 - May 2021
-- Implemented a robust device classification system by extracting Fast Fourier Transform (FFT) spectral mean features and SVM model, achieving accuracy of 80%.
-- Engineered an ASR data pipeline data recordings from 20 speakers and developed scripts to generate metadata files and curated a corpus for data annotation.
-- Designed ASR trained model using transfer learning from pre-trained LibriSpeech models, achieving 95% accuracy through advanced techniques in MFCC-based feature extraction for monophonic and triphone acoustic modelling.
+**Continental, India - Data Scientist**, Aug 2021 - May 2022
+- Collaborated on improving vehicle speed control in Advanced Driver Assistance Systems - ADAS by developing a PointNet++ drop-in
+drop-out classifier and integrating sensor radar data, increasing responsiveness by 20%.
+- Extracted point cloud from MongoDB using 10+ APIs for data integration, which optimized data flow and reduced data retrieval errors
+by 15%.
+- Pre-processed point cloud data by extracting 3D positions and relative speeds, linking with semantic segmentation classes, and
+preparing input features, which led to a 25% increase in data integration efficiency.
+- Deployed and maintained the model in ADAS, monitored performance using Tableau dashboards, improving model stability by 10%.
+  
+**Anubhooti Solutions, Pune, India - Machine Learning Engineer**, Jan 2021 - May 2021
+- Gathered and stored over 100+ device recordings as WAV files in Azure Data Lake Storage, ensuring secure and organized data
+storage, which enhanced the reliability data processing.
+- Performed data segmentation, normalization, and FFT feature extraction on audio recordings using librosa, which improved
+data quality and enhanced model performance.
+- Applied Support Vector Machine -SVM for audio classification, optimized through grid search and 10-fold cross-validation, resulting
+in 80% accuracy and improved classification performance.
 
 ## Projects
 
@@ -50,6 +70,9 @@ Vishwakarma Institute of Technology, Aug 2017 - May 2021
 
 **[Massachusetts General Hospital Dashboard](https://github.com/sakshiiiir/Massachusetts-General-Hospital-Dashboard)**
 - Built an effective KPI dashboard for analyzing hospital visit dynamics, capturing patient distribution by gender and age, and insurance claims details such as payer coverage and patient burden, in PowerBi and analysis in python.
+
+**[Identify key customer segments and develop a data-driven strategy for future promotional messaging & targeting](https://github.com/sakshiiiir/Cafe-Rewards-Dashboard)**
+- Identify key customer segments and develop a data-driven strategy for future promotional messaging & targeting.
 
 ### Machine Learning
 
