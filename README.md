@@ -45,8 +45,8 @@
 **[Massachusetts General Hospital Dashboard](https://github.com/sakshiiiir/Massachusetts-General-Hospital-Dashboard)**
 - Built an effective KPI dashboard for analyzing hospital visit dynamics, capturing patient distribution by gender and age, and insurance claims details such as payer coverage and patient burden, in PowerBi and analysis in python.
 
-**[Identify key customer segments and develop a data-driven strategy for future promotional messaging & targeting](https://github.com/sakshiiiir/Cafe-Rewards-Dashboard)**
-- Identify key customer segments and develop a data-driven strategy for future promotional messaging & targeting.
+**[Cafe Rewards Analysis](https://github.com/sakshiiiir/Cafe-Rewards-Dashboard)**
+- Identify key customer segments at a cafe and develop a data-driven strategy for future promotional messaging & targeting.
 
 ### Machine Learning
 
