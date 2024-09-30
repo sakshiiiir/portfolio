@@ -12,48 +12,22 @@
 
 ## Education
 
-**Master's in Data Science**  GPA 3.7/4
-Indiana University Bloomington, Aug 2022 - May 2024
-
-**BTech in Electronics and Telecommunication**  GPA 9.04/10
-Vishwakarma Institute of Technology, Aug 2017 - May 2021
+**Master's in Data Science** | Indiana University Bloomington, Aug 2022 - May 2024
+**BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, Aug 2017 - May 2021
 
 ## Work Experience
 
 **Hoosier Community Network - Data Analyst**, Jun 2024 - Present 
-- Orchestrated 5+ data pipelines using Azure Data Factory to process and store raw CSV, Excel, XML, and JSON data from the US
-Census across 70+ counties in Azure Blob Storage, which enhanced data discoverability and improved storage efficiency.
-- Performed API testing in Postman to validate data integrity and correctness, which resulted in 30% reduction in data errors and
-enhanced overall data reliability for stakeholders.
-- Created analytical dashboards in PowerBi with DAX and Power Query to visualize time-series and geospatial education data, to make
-data-driven decisions.
+- Orchestrated 5+ data pipelines in Azure Data Factory to process and store U.S. Census data for 70+ Indiana counties in Azure Blob Storage, improving data discoverability. Reduced data errors by 30% through API testing in Postman. Optimized data in Azure Synapse Analytics using SQL, boosting query performance and enhancing reporting efficiency by 20%. Developed Power BI dashboards with DAX and Power Query to visualize time-series and geospatial data, incorporating 10+ KPIs to track educational trends.
 
 **Magna International, USA - Data Scientist**, May 2023 - Aug 2023
-- Developed python ETL pipeline to extract sensor data via APIs, performed imputation and cleaning, and stored it in InfluxDB,
-effectively managing 80+ GB of time-series big data from 10+ sensors, optimizing data consistency.
-- Integrated the database with Grafana utilizing APIs to create interactive dashboards for time series forecasting using ARIMA for sensor
-anomaly detection, resulting in 20% improvement in operational functions through real-time monitoring .
-- Classified chiller tank flow using statistical models - logistic regression, decision trees, random forest, with power consumption data
-from 100+ injection molding machines, resulting in 10% reduction in malfunctions.
-- Analyzed chiller efficiency using chiller metrics, identified seasonality trends, and visualized the efficiency curve in Grafana, resulting in
-a 20% improvement in performance.
-
+- Developed a Python ETL pipeline to extract sensor data via APIs, perform imputation and cleaning, and store it in InfluxDB, effectively managing 80+ GB of time-series data from 10+ sensors and optimizing data consistency. Integrated InfluxDB with Grafana using APIs to create interactive dashboards for time series forecasting with ARIMA, improving sensor anomaly detection and enhancing operational functions by 20% through real-time monitoring. Implemented statistical models, including logistic regression, decision trees, and random forests, to classify chiller tank flow based on power consumption data from 100+ injection molding machines, reducing malfunctions by 10%. Analyzed chiller efficiency using chiller metrics, identified seasonal trends, and visualized the efficiency curve in Grafana, resulting in a 20% performance improvement.
+  
 **Continental, India - Data Scientist**, Aug 2021 - May 2022
-- Collaborated on improving vehicle speed control in Advanced Driver Assistance Systems - ADAS by developing a PointNet++ drop-in
-drop-out classifier and integrating sensor radar data, increasing responsiveness by 20%.
-- Extracted point cloud from MongoDB using 10+ APIs for data integration, which optimized data flow and reduced data retrieval errors
-by 15%.
-- Pre-processed point cloud data by extracting 3D positions and relative speeds, linking with semantic segmentation classes, and
-preparing input features, which led to a 25% increase in data integration efficiency.
-- Deployed and maintained the model in ADAS, monitored performance using Tableau dashboards, improving model stability by 10%.
+- Collaborated on enhancing vehicle speed control in Advanced Driver Assistance Systems (ADAS) by developing a PointNet++ drop-in drop-out classifier and integrating sensor radar data, improving responsiveness by 20%. Extracted point cloud data from MongoDB using 10+ APIs for data integration, optimizing data flow and reducing retrieval errors by 15%. Pre-processed point cloud data by extracting 3D positions and relative speeds, linking with semantic segmentation classes, and preparing input features, which increased data integration efficiency by 25%. Deployed and maintained the model in ADAS, monitoring performance with Tableau dashboards, resulting in a 10% improvement in model stability
   
 **Anubhooti Solutions, Pune, India - Machine Learning Engineer**, Jan 2021 - May 2021
-- Gathered and stored over 100+ device recordings as WAV files in Azure Data Lake Storage, ensuring secure and organized data
-storage, which enhanced the reliability data processing.
-- Performed data segmentation, normalization, and FFT feature extraction on audio recordings using librosa, which improved
-data quality and enhanced model performance.
-- Applied Support Vector Machine -SVM for audio classification, optimized through grid search and 10-fold cross-validation, resulting
-in 80% accuracy and improved classification performance.
+- Gathered and stored over 100 device recordings as WAV files in Azure Data Lake Storage, ensuring secure and organized data management, which enhanced the reliability of data processing. Performed data segmentation, normalization, and FFT feature extraction on audio recordings using librosa, improving data quality and model performance. Applied a Support Vector Machine (SVM) for audio classification, optimized through grid search and 10-fold cross-validation, achieving 80% accuracy and enhancing classification performance.
 
 ## Projects
 
