@@ -33,45 +33,45 @@
 
 ### Data Analysis
 
-**[Exploratory Data Analysis Mental Health](https://github.com/sakshiiiir/EDA-Mental-Health)**
-- Applied EDA concepts in R to predict anxiety disorder rates from 1990 to 2019 across 157 countries. Explored relationships between GDP, population age structure, gender, and anxiety prevalence. Built models to estimate and predict anxiety levels over time.
+**[Exploratory Data Analysis Mental Health](https://github.com/sakshiiiir/EDA-Mental-Health)** | R Studio 
+- Applied Exploratory Data Analysis (EDA) in R Studio to predict anxiety disorder rates from 1990 to 2019 across 157 countries. Analyzed correlations between GDP, population age structure, gender, and anxiety prevalence. Developed a Generalized Additive Model (GAM) to estimate and predict anxiety levels over time, providing insights into global trends and key influencing factors.
 
-**[Time Series Analysis: Energy Analytics and Prediction](https://github.com/sakshiiiir/Time-Series-Analysis-Energy-Analytics)**
-- Applied time series analysis and forecasting concepts in R for energy analytics to optimize energy production, consumption, and management focusing on natural gas. Extended the project to an app for user-friendly analysis and future predictions.
+**[Time Series Analysis: Energy Analytics and Prediction](https://github.com/sakshiiiir/Time-Series-Analysis-Energy-Analytics)** | Python, Flask
+- Applied time series analysis and ARIMA forecasting in Python for energy analytics, optimizing natural gas production, consumption, and management. Extended the project by developing a Flask-based app for user-friendly analysis and future predictions, enabling more accessible and accurate energy forecasting.
 
-**[Credit Card Financial Dashboard](https://github.com/sakshiiiir/Credit_Card-Financial_Dashboard)**
-- Created a dynamic and informative dashboard showcasing various performance indicators related to credit card operations, involving data importation, processing, visualization, and updating.
+**[Credit Card Financial Dashboard](https://github.com/sakshiiiir/Credit_Card-Financial_Dashboard)** | MS SQL Server , PowerBi
+- Conducted analysis using SQL Server and Power BI to create a dynamic and informative dashboard that showcases key performance indicators related to credit card operations. This process involved data importation, processing, visualization, and ongoing updates to ensure the dashboard remains current and insightful.
 
-**[Massachusetts General Hospital Dashboard](https://github.com/sakshiiiir/Massachusetts-General-Hospital-Dashboard)**
-- Built an effective KPI dashboard for analyzing hospital visit dynamics, capturing patient distribution by gender and age, and insurance claims details such as payer coverage and patient burden, in PowerBi and analysis in python.
+**[Massachusetts General Hospital Dashboard](https://github.com/sakshiiiir/Massachusetts-General-Hospital-Dashboard)** | Python , PowerBi
+- Developed an effective KPI dashboard for analyzing hospital visit dynamics by capturing patient distribution by gender and age, as well as insurance claims details, including payer coverage and patient burden. The project involved data preprocessing in Python, followed by visualization and reporting in Power BI to deliver actionable insights.
 
-**[Cafe Rewards Analysis](https://github.com/sakshiiiir/Cafe-Rewards-Dashboard)**
-- Identify key customer segments at a cafe and develop a data-driven strategy for future promotional messaging & targeting.
+**[Cafe Rewards Analysis](https://github.com/sakshiiiir/Cafe-Rewards-Dashboard)** | Python , PowerBi
+- dentified key customer segments for a cafe by analyzing customer demographics, including gender and age, alongside offer types and channels. Developed a data-driven strategy for future promotional messaging and targeting, leveraging Python for data preprocessing and utilizing DAX in Power BI for in-depth analysis and visualization. 
 
 ### Machine Learning
 
-**[Engineering Cloud Computing: Skin Cancer Using AWS](https://github.com/sakshiiiir/AWS-Skin-Cancer)**
-- Leveraged AWS cloud services to develop a robust and scalable skin cancer detection system, utilizing AWS technologies like Amazon Rekognition and Amazon SageMaker to enhance diagnostic accuracy and address challenges related to scalability, cost, and global accessibility.
+**[Engineering Cloud Computing: Skin Cancer Using AWS](https://github.com/sakshiiiir/AWS-Skin-Cancer)** | Python , AWS
+- Leveraged AWS cloud services to develop a robust and scalable skin cancer detection system using Python, incorporating Amazon Rekognition and Amazon SageMaker for enhanced diagnostic accuracy. Utilized AWS services such as S3 for data storage, IAM for secure access management, and Lambda for serverless processing to effectively address challenges related to scalability, cost, and global accessibility.
 
-**[Smart Glasses for Indoor Object Detection to Assist Visually Impaired Using Raspberry Pi](https://github.com/sakshiiiir/Smart-Glasses-for-Indoor-Object-Detection)**
-- Developed a prototype for real-time object detection using a camera connected to Raspberry Pi, providing audio output for visually impaired users. Utilized TensorFlow API and COCO SSD MobileNet v1 with less than 1% training loss.
+**[PCOS Classification](https://github.com/sakshiiiir/Data-Mining-PCOS)** | Python
+- Developed a machine learning model to predict PCOS using a Kaggle dataset. Key features identified as significant predictors included follicle count, weight gain, cycle regularity, skin darkening, and hair growth. Achieved 91% accuracy using a Random Forest classifier.
 
-**[Classroom Scene Recognition for Monitoring Using MobileNet](https://github.com/sakshiiiir/Classroom-Scene-Recognition)**
-- Focused on indoor scene detection, identifying scenes from categories like concert hall, meeting hall, and auditorium. Initially used GIST, DAISY, and HOG for feature extraction and SVM for classification, later improved with transfer learning using MobileNet and Keras.
+**[Social Media Mining: Sentiment Analysis of Customer Reviews](https://github.com/sakshiiiir/Sentiment-Analysis-of-Customer-Reviews)** | Python , NLP
+- Conducted sentiment analysis on over 80k Amazon mobile reviews using a Bi-LSTM deep learning model, achieving 88% accuracy. Applied data preprocessing techniques, including spelling correction and emoji handling, while effectively addressing class imbalance.
 
-**[Social Media Mining: Sentiment Analysis of Customer Reviews](https://github.com/sakshiiiir/Sentiment-Analysis-of-Customer-Reviews)**
-- Analyzed over 82,816 Amazon mobile reviews using Bi-LSTM deep learning model, achieving 88% accuracy. Applied data preprocessing techniques to correct spelling errors and process emojis, addressing class imbalance effectively.
-
-**[Data Mining Course Project](https://github.com/sakshiiiir/Data-Mining-PCOS)**
-- Predicted PCOS using machine learning on a Kaggle dataset. Identified key features like follicle number, weight gain, cycle (R/I), skin darkening, and hair growth as significant predictors. Achieved 91% accuracy with Random Forest classifier.
+**[Smart Glasses for Indoor Object Detection to Assist Visually Impaired Using Raspberry Pi](https://github.com/sakshiiiir/Smart-Glasses-for-Indoor-Object-Detection)** | Python , Raspberry Pi
+- Developed a real-time object detection prototype using a camera connected to Raspberry Pi, providing audio feedback for visually impaired users. Leveraged TensorFlow API and COCO SSD MobileNet v1.
+  
+**[Classroom Scene Recognition for Monitoring Using MobileNet](https://github.com/sakshiiiir/Classroom-Scene-Recognition)** | Python
+- Developed an indoor scene recognition system to classify environments such as concert halls, meeting rooms, and auditoriums. Initially employed GIST, DAISY, and HOG for feature extraction and SVM for classification, later enhancing accuracy with transfer learning using MobileNet and Keras.
 
 ### Deep Learning
 
-**[Deep Learning Systems: Super Resolution GAN](https://github.com/sakshiiiir/Deep-Learning--SRGAN)**
-- Addressed Single Image Super-Resolution (SISR) using SRGANs. Integrated transfer learning, depthwise convolution, and attention layers. Evaluated model using perceptual loss, adversarial loss, PSNR, and SSIM on celebHQ and div2K datasets.
-
-**[ASL Classification for 3D Point Cloud Using PointNet](https://github.com/sakshiiiir/ASL-Classification-for-3D-point-cloud)**
-- Developed a system to identify American Sign Language using 3D point clouds captured by a pointflex camera. Used PointNet architecture for preprocessing and classification, creating a co-existing environment for communication.
+**[Deep Learning Systems: Super Resolution GAN](https://github.com/sakshiiiir/Deep-Learning--SRGAN)** | Python
+- Implemented Single Image Super-Resolution (SISR) using SRGANs, incorporating transfer learning, depthwise convolution, and attention layers. The model was evaluated using perceptual loss, adversarial loss, PSNR, and SSIM metrics on celebHQ and div2K datasets to enhance image quality.
+  
+**[ASL Classification for 3D Point Cloud Using PointNet](https://github.com/sakshiiiir/ASL-Classification-for-3D-point-cloud)** | Python
+- Developed a system to classify American Sign Language (ASL) gestures using 3D point cloud data captured by a Pointflex camera. Utilized the PointNet architecture for effective preprocessing and classification, facilitating a real-time communication environment for ASL users.
 
 ## Certificates
 
