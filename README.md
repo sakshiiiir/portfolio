@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-[Email](mailto:sakshi.k.rathi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakshi-k-rathi/) | [GitHub](https://github.com/sakshiiiir) | [Resume](https://github.com/sakshiiiir/portfolio/blob/main/sakshi_rathi_resume_ms_data_science.pdf)
+[Email](mailto:sakshi.k.rathi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakshi-k-rathi/) | [GitHub](https://github.com/sakshiiiir) | [Resume](https://drive.google.com/file/d/1jyXZfelOSDfeI3V_-fF6ev1dmk4MWvXO/view?usp=drive_link)
 
 ## Technical Skills
 
