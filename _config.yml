@@ -16,10 +16,10 @@ author:
   email: "sakshi.k.rathi@gmail.com"
   social:
     linkedin: "https://www.linkedin.com/in/sakshi-k-rathi/"
-    github: "https://github.com/yourgithubusername"  # Replace with your GitHub username
+    github: "https://github.com/sakshiiiir"  # Replace with your GitHub username
 
 # Theme settings
-theme: "minimal"  # You can choose a theme that suits your style
+theme: "jekyll-theme-dark"  # Replace with an appropriate dark theme
 
 # Navigation settings
 nav:
@@ -39,4 +39,3 @@ nav:
 # Additional settings
 show_excerpts: true  # Show excerpts on the homepage
 paginate: 5  # Number of items per page in lists
-
