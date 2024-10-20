@@ -1,5 +1,42 @@
-title: Sakshi Rathi
-logo: /assets/img/edit5.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+# title: Sakshi Rathi
+# logo: /assets/img/edit5.png
+# description: text below image
+# show_downloads: true
+# theme: jekyll-theme-minimal
+
+# Site configuration
+title: "Sakshi Rathi's Portfolio"
+description: "Data Scientist | Data Analyst | Machine Learning Enthusiast"
+url: "https://yourportfolio.com"  # Replace with your actual portfolio URL
+baseurl: "/"  # Leave as is if not using a subdirectory
+
+# Author information
+author:
+  name: "Sakshi Rathi"
+  email: "sakshi.k.rathi@gmail.com"
+  social:
+    linkedin: "https://www.linkedin.com/in/sakshi-k-rathi/"
+    github: "https://github.com/yourgithubusername"  # Replace with your GitHub username
+
+# Theme settings
+theme: "minimal"  # You can choose a theme that suits your style
+
+# Navigation settings
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Data Analytics"
+    url: "/data-analytics.md"
+  - title: "Data Visualization"
+    url: "/data-visualization.md"
+  - title: "Machine Learning"
+    url: "/machine-learning.md"
+  - title: "Deep Learning"
+    url: "/deep-learning.md"
+  - title: "Certifications"
+    url: "/certifications.md"
+
+# Additional settings
+show_excerpts: true  # Show excerpts on the homepage
+paginate: 5  # Number of items per page in lists
+
