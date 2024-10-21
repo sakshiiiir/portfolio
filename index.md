@@ -97,5 +97,4 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 ---
 
 ### Certifications
-
 #### [View My Certifications](https://github.com/sakshiiiir/portfolio/blob/main/certf.md)
