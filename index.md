@@ -10,16 +10,16 @@
   </a>
 </p>
 
-### Welcome to My Portfolio
+### Welcome to My Portfolio!
 
-Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Bloomington with 2 years of experience in statistics, data analysis, machine learning. Proficient in Python, R, SQL, and C++, data visualization using tools PowerBi, and Grafana and cloud services of AWS and Azure.
+Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University Bloomington with 2 years of experience in statistics, data analysis, machine learning. Proficient in Python, R, SQL, and C++, data visualization using tools PowerBi, and Grafana and cloud services of AWS and Azure. Currently, I'm working at Hoosier Community Network, a non-profit organization dedicated to helping small businesses in Indiana address their challenges and adopt AI and automation solutions to streamline their operations.
 
 ### Education
 
 **Master's in Data Science** | Indiana University Bloomington, Aug 2022 - May 2024
 **BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, Aug 2017 - May 2021
 
-### [Work Experience]
+### [Work Experience]()
 
 ### Technologies Used
 
