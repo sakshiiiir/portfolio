@@ -19,7 +19,7 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 **Master's in Data Science** | Indiana University Bloomington, Aug 2022 - May 2024
 **BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, Aug 2017 - May 2021
 
-### [Work Experience](https://github.com/sakshiiiir/portfolio/blob/main/work-exp.md)
+### [Work Experience]
 
 ### Technologies Used
 
