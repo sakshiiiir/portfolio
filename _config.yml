@@ -44,3 +44,12 @@ paginate: 5  # Number of items per page in lists
 # Theme settings for dark mode
 theme_settings:
   dark_mode: true  # Enables dark mode if supported by the theme
+
+# Custom CSS for dark mode
+sass:
+  load_paths:
+    - assets/css
+
+# Add this line to include your custom CSS
+include:
+  - assets/css/dark-mode.css
