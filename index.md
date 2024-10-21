@@ -22,7 +22,7 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
 ### Work Experience 
 #### [Details](work-exp.md)
 <p align="center">
-  <a href="[https://github.com/sakshiiiir/portfolio/blob/main/work-exp.md]"
+  <a href="[https://github.com/sakshiiiir/portfolio/blob/main/work-exp.md]">
   </a>
 </p>
 
