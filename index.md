@@ -19,19 +19,7 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 **Master's in Data Science** | Indiana University Bloomington, Aug 2022 - May 2024
 **BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, Aug 2017 - May 2021
 
-### Work Experience
-
-**Hoosier Community Network - Data Analyst**, Jun 2024 - Present 
-- Orchestrated 5+ data pipelines in Azure Data Factory to process and store U.S. Census data for 70+ Indiana counties in Azure Blob Storage, improving data discoverability. Reduced data errors by 30% through API testing in Postman. Optimized data in Azure Synapse Analytics using SQL, boosting query performance and enhancing reporting efficiency by 20%. Developed Power BI dashboards with DAX and Power Query to visualize time-series and geospatial data, incorporating 10+ KPIs to track educational trends.
-
-**Magna International, USA - Data Scientist**, May 2023 - Aug 2023
-- Developed a Python ETL pipeline to extract sensor data via APIs, perform imputation and cleaning, and store it in InfluxDB, effectively managing 80+ GB of time-series data from 10+ sensors and optimizing data consistency. Integrated InfluxDB with Grafana using APIs to create interactive dashboards for time series forecasting with ARIMA, improving sensor anomaly detection and enhancing operational functions by 20% through real-time monitoring. Implemented statistical models, including logistic regression, decision trees, and random forests, to classify chiller tank flow based on power consumption data from 100+ injection molding machines, reducing malfunctions by 10%. Analyzed chiller efficiency using chiller metrics, identified seasonal trends, and visualized the efficiency curve in Grafana, resulting in a 20% performance improvement.
-  
-**Continental, India - Data Scientist**, Aug 2021 - May 2022
-- Collaborated on enhancing vehicle speed control in Advanced Driver Assistance Systems (ADAS) by developing a PointNet++ drop-in drop-out classifier and integrating sensor radar data, improving responsiveness by 20%. Extracted point cloud data from MongoDB using 10+ APIs for data integration, optimizing data flow and reducing retrieval errors by 15%. Pre-processed point cloud data by extracting 3D positions and relative speeds, linking with semantic segmentation classes, and preparing input features, which increased data integration efficiency by 25%. Deployed and maintained the model in ADAS, monitoring performance with Tableau dashboards, resulting in a 10% improvement in model stability
-  
-**Anubhooti Solutions, Pune, India - Machine Learning Engineer**, Jan 2021 - May 2021
-- Gathered and stored over 100 device recordings as WAV files in Azure Data Lake Storage, ensuring secure and organized data management, which enhanced the reliability of data processing. Performed data segmentation, normalization, and FFT feature extraction on audio recordings using librosa, improving data quality and model performance. Applied a Support Vector Machine (SVM) for audio classification, optimized through grid search and 10-fold cross-validation, achieving 80% accuracy and enhancing classification performance.
+### [Work Experience](https://github.com/sakshiiiir/portfolio/blob/main/work-exp.md)
 
 ### Technologies Used
 
@@ -47,7 +35,7 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 
 #### [Explore Data Analytics Projects](data-analytics.md)
 <p align="center">
-  <a href="data-analytics.md">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/data-analytics.md">
   </a>
 </p>
 
@@ -65,7 +53,7 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 
 #### [Explore Data Visualization Projects](data-visualization.md)
 <p align="center">
-  <a href="data-visualization.md">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/data-vis.md">
   </a>
 </p>
 
@@ -84,7 +72,7 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 
 #### [Explore Machine Learning Projects](machine-learning.md)
 <p align="center">
-  <a href="machine-learning.md">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/machine-learning.md">
   </a>
 </p>
 
@@ -102,7 +90,7 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 
 #### [Explore Deep Learning Projects](deep-learning.md)
 <p align="center">
-  <a href="deep-learning.md">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/deep-learning.md">
   </a>
 </p>
 
@@ -110,4 +98,4 @@ Hi, I'm Sakshi Rathi, a recent data science graduate from Indiana University Blo
 
 ### Certifications
 
-### [View My Certifications](certifications.md)
+#### [View My Certifications](https://github.com/sakshiiiir/portfolio/blob/main/certf.md)
