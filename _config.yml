@@ -7,8 +7,8 @@
 # Site configuration
 title: "Sakshi Rathi's Portfolio"
 description: "Data Scientist | Data Analyst | Machine Learning Enthusiast"
-url: "https://yourportfolio.com"  # Replace with your actual portfolio URL
-baseurl: "/"  # Leave as is if not using a subdirectory
+url: "https://sakshiiiir.github.io"  # URL for GitHub Pages
+baseurl: "/portfolio"  # Adjust this to match your repo name on GitHub Pages
 
 # Author information
 author:
@@ -24,17 +24,17 @@ theme: "minimal"  # You can choose a theme that suits your style
 # Navigation settings
 nav:
   - title: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "Data Analytics"
-    url: "/data-analytics.md"
+    url: "{{ site.baseurl }}/data-analytics.md"
   - title: "Data Visualization"
-    url: "/data-visualization.md"
+    url: "{{ site.baseurl }}/data-visualization.md"
   - title: "Machine Learning"
-    url: "/machine-learning.md"
+    url: "{{ site.baseurl }}/machine-learning.md"
   - title: "Deep Learning"
-    url: "/deep-learning.md"
+    url: "{{ site.baseurl }}/deep-learning.md"
   - title: "Certifications"
-    url: "/certifications.md"
+    url: "{{ site.baseurl }}/certifications.md"
 
 # Additional settings
 show_excerpts: true  # Show excerpts on the homepage
