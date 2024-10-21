@@ -27,6 +27,8 @@ theme: jekyll-theme-minimal  # You can choose a theme that suits your style
 nav:
   - title: "Home"
     url: "{{ site.baseurl }}/"
+  - title: "Work Experience"
+    url: "{{ site.baseurl }}/work-exp.md"
   - title: "Data Analytics"
     url: "{{ site.baseurl }}/data-analytics.md"
   - title: "Data Visualization"
@@ -36,7 +38,7 @@ nav:
   - title: "Deep Learning"
     url: "{{ site.baseurl }}/deep-learning.md"
   - title: "Certifications"
-    url: "{{ site.baseurl }}/certifications.md"
+    url: "{{ site.baseurl }}/certf.md"
 
 # Additional settings
 show_excerpts: true  # Show excerpts on the homepage
