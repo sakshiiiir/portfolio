@@ -5,9 +5,10 @@
 # theme: jekyll-theme-minimal
 
 # Site configuration
-title: "Sakshi Rathi's Portfolio"
+title: "Sakshi Rathi"
 logo: /assets/img/edit5.png
-description: text below image #"Data Scientist | Data Analyst | Machine Learning Enthusiast"
+description: #text below image #"Data Scientist | Data Analyst | Machine Learning Enthusiast"
+show_downloads: true
 url: "https://sakshiiiir.github.io"  # URL for GitHub Pages
 baseurl: "/portfolio"  # Adjust this to match your repo name on GitHub Pages
 
