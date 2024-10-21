@@ -6,7 +6,8 @@
 
 # Site configuration
 title: "Sakshi Rathi's Portfolio"
-description: "Data Scientist | Data Analyst | Machine Learning Enthusiast"
+logo: /assets/img/edit5.png
+description: text below image #"Data Scientist | Data Analyst | Machine Learning Enthusiast"
 url: "https://sakshiiiir.github.io"  # URL for GitHub Pages
 baseurl: "/portfolio"  # Adjust this to match your repo name on GitHub Pages
 
