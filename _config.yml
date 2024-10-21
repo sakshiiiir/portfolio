@@ -32,7 +32,7 @@ nav:
   - title: "Data Analytics"
     url: "{{ site.baseurl }}/data-analytics.md"
   - title: "Data Visualization"
-    url: "{{ site.baseurl }}/data-visualization.md"
+    url: "{{ site.baseurl }}/data-vis.md"
   - title: "Machine Learning"
     url: "{{ site.baseurl }}/machine-learning.md"
   - title: "Deep Learning"
