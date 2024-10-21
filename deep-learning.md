@@ -7,7 +7,7 @@
 - Developed a system to classify American Sign Language (ASL) gestures using 3D point cloud data captured by a Pointflex camera. Utilized the PointNet architecture for effective preprocessing and classification, facilitating a real-time communication environment for ASL users.
 
 **[Deep Learning Concepts](https://github.com/sakshiiiir/Deep-Learning)**
-- MNIST Claasification
-- Speech Denoising
-- Network Compression
-- Generative Models
+- [MNIST Claasification](https://github.com/sakshiiiir/Deep-Learning/blob/main/mnist%20classification.ipynb)
+- [Speech Denoising](https://github.com/sakshiiiir/Deep-Learning/blob/main/speech%20denoising.ipynb)
+- [Network Compression](https://github.com/sakshiiiir/Deep-Learning/blob/main/network%20compression.ipynb)
+- [Generative Models](https://github.com/sakshiiiir/Deep-Learning/blob/main/generative%20models.ipynb)
