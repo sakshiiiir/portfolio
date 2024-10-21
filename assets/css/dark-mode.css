@@ -1,0 +1,26 @@
+/* Dark mode styles */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #bb86fc;
+}
+
+nav {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+footer {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+header {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+/* Add any additional customizations here */
