@@ -20,7 +20,11 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
 **BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, India, Aug 2017 - May 2021
 
 ### Work Experience 
-#### [Details](https://github.com/sakshiiiir/portfolio/blob/main/work-exp.md)
+#### [Details](work-exp.md)
+<p align="center">
+  <a href="[https://github.com/sakshiiiir/portfolio/blob/main/work-exp.md]"
+  </a>
+</p>
 
 ### Technologies Used
 
@@ -98,4 +102,8 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
 ---
 
 ### Certifications
-#### [View My Certifications](https://github.com/sakshiiiir/portfolio/blob/main/certf.md)
+#### [View My Certifications](certf.md)
+<p align="center">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/certf.md">
+  </a>
+</p>
