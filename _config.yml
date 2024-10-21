@@ -19,7 +19,7 @@ author:
     github: "https://github.com/sakshiiiir"
 
 # Theme settings
-theme: "minimal"  # You can choose a theme that suits your style
+theme: jekyll-theme-minimal  # You can choose a theme that suits your style
 
 # Navigation settings
 nav:
