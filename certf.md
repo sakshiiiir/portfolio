@@ -1,4 +1,4 @@
-##@ Certificates
+### Certificates
 
 1. [Deep Learning Specialization by deeplearning.ai](https://coursera.org/share/6d0e28913d35181cd1bcf9450cd35750)
 2. [SQL for Data Science](https://coursera.org/share/f030242ec2bb0986c2ad12eefe197e82)
