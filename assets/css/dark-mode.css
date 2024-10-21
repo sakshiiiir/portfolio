@@ -1,26 +1,20 @@
-/* Dark mode styles */
-body {
-  background-color: #121212;
-  color: #e0e0e0;
-}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
 
-a {
-  color: #bb86fc;
-}
+  a {
+    color: #bb86fc;
+  }
 
-nav {
-  background-color: #1f1f1f;
-  color: #e0e0e0;
-}
+  .navbar {
+    background-color: #333333;
+  }
 
-footer {
-  background-color: #1f1f1f;
-  color: #e0e0e0;
-}
+  footer {
+    background-color: #333333;
+  }
 
-header {
-  background-color: #1f1f1f;
-  color: #e0e0e0;
+  /* Customize more elements as needed */
 }
-
-/* Add any additional customizations here */
