@@ -56,7 +56,7 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
   <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-#### [Explore Data Visualization Projects](data-visualization.md)
+#### [Explore Data Visualization Projects](data-vis.md)
 <p align="center">
   <a href="https://github.com/sakshiiiir/portfolio/blob/main/data-vis.md">
   </a>
