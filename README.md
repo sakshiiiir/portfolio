@@ -20,7 +20,7 @@ I have 2 years of experience in statistics and data analysis, and I am proficien
 I have worked on various projects in the fields of Data Analytics, Data Visualization, Machine Learning, and Deep Learning. You can explore them through the links below:
 
 - [Data Analytics Projects](data-analytics.md)
-- [Data Visualization Projects](data-visualization.md)
+- [Data Visualization Projects](data-vis.md)
 - [Machine Learning Projects](machine-learning.md)
 - [Deep Learning Projects](deep-learning.md)
 
