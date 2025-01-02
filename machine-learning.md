@@ -1,7 +1,10 @@
 ### Machine Learning Projects
 
-**[Credit Card Fraud Detection](https://github.com/sakshiiiir/credit-card-fraud-detection)** | Python, Financial Modeling, Machine Learning
-- Implemented a credit card fraud detection system using Logistic Regression and SMOTE for class imbalance handling, achieving a ROC-AUC score of 0.97. Preprocessed data with feature scaling, PowerTransformer for skewed features, and evaluated model performance using precision-recall and ROC curves to optimize fraud detection strategies.
+**[Credit Fraud Detection](https://github.com/sakshiiiir/credit-card-fraud-detection)** | Python, Risk Analysis, Machine Learning
+- Implemented a credit card fraud detection system using Logistic Regression, XGBoost, Decision Tree, SMOTE for class imbalance handling, achieving a ROC-AUC score of 0.97. Preprocessed data with feature scaling, PowerTransformer for skewed features, and evaluated model performance using precision-recall and ROC curves to optimize fraud detection strategies.
+
+**[Credit Risk Modeling](https://github.com/sakshiiiir/credit-risk-modeling)** | Python, Risk Modeling, Machine Learning
+- Implemented a credit risk model using machine learning algorithms - (Logistic Regression, Random Forest, XGBoost, SVC) to classify clients as default or non-default using data on credit repayment history and customer demographics, with XGBoost giving a better ROC score. 
 
 **[Engineering Cloud Computing: Skin Cancer Using AWS](https://github.com/sakshiiiir/AWS-Skin-Cancer)** | Python , AWS
 - Leveraged AWS cloud services to develop a robust and scalable skin cancer detection system using Python, incorporating Amazon Rekognition and Amazon SageMaker for enhanced diagnostic accuracy. Utilized AWS services such as S3 for data storage, IAM for secure access management, and Lambda for serverless processing to effectively address challenges related to scalability, cost, and global accessibility.
