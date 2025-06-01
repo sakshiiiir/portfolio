@@ -1,28 +1,36 @@
 # Sakshi Rathi's Portfolio
 
-Welcome to my portfolio! I am a recent data science graduate from Indiana University Bloomington, with a strong passion for data analysis, visualization, and machine learning. 
+Welcome! I’m Sakshi Rathi, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
+
 
 ## About Me
 
-I have 2 years of experience in statistics and data analysis, and I am proficient in the following technologies:
+With 2 years of hands-on experience in data analysis, machine learning, and cloud platforms, I bring a cross-functional approach to data science—balancing technical depth with business understanding. I’ve contributed to projects in education, automotive, and public health sectors, helping teams unlock insights and accelerate product growth.
 
-- **Programming Languages**: Python, R, SQL, C++
-- **Data Visualization Tools**: Power BI, Tableau, Grafana
-- **Cloud Services**: AWS, Azure
+Core Skills:
+
+- Programming: Python, R, SQL, C++, HTML, CSS, MATLAB
+- Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
+- Visualization: Power BI, Tableau, Grafana, looker, Excel,
+- Cloud & Big Data: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
+- AI & ML: LLM, STM, GAN, RNN, CNN, Scikit-learn, SVM, Random Forest, XGBoost
+- Product Growth: A/B testing, user behavior analytics, churn modeling, retention dashboards
 
 ## Education
 
 - **Master's in Data Science** | Indiana University Bloomington (Aug 2022 - May 2024)
 - **BTech in Electronics and Telecommunication** | Vishwakarma Institute of Technology (Aug 2017 - May 2021)
 
-## Projects
+## Work
 
-I have worked on various projects in the fields of Data Analytics, Data Visualization, Machine Learning, and Deep Learning. You can explore them through the links below:
+Explore selected works across key domains:
 
-- [Data Analytics Projects](data-analytics.md)
-- [Data Visualization Projects](data-vis.md)
-- [Machine Learning Projects](machine-learning.md)
-- [Deep Learning Projects](deep-learning.md)
+- [Data Analytics](data-analytics.md)
+- [Product Growth](product_growth.md)
+- [Data Visualization](data-vis.md)
+- [Machine Learning](machine-learning.md)
+- [Deep Learning](deep-learning.md)
+- [AI](ai.md)
 
 ## Certifications
 
