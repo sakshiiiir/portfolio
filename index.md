@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sakshi-k-rathi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1KElAQ_A2SUwc3_f4Ay9MAPzG0BqNfJ3n/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/19gbgUCgMokaV7xUsca264euZVWckKczN/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
