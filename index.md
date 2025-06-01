@@ -18,12 +18,12 @@ With 2 years of hands-on experience in data analysis, machine learning, and clou
 
 ### Core Skills:
 
-**Programming**: Python, R, SQL, C++, HTML, CSS, MATLAB
-**Frameworks**: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
-**Visualization**: Power BI, Tableau, Grafana, looker, Excel,
-**Cloud & Big Data**: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
-**Machine Learning**: SVM, Random Forest, XGBoost, clustering, CNN, RNN, LSTM, GAN, LLM
-**Product Growth**: A/B testing, user behavior analytics, churn modeling, retention dashboards
+- **Programming**: Python, R, SQL, C++, HTML, CSS, MATLAB
+- **Frameworks**: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
+- **Visualization**: Power BI, Tableau, Grafana, looker, Excel,
+- **Cloud & Big Data**: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
+- **Machine Learning**: SVM, Random Forest, XGBoost, clustering, CNN, RNN, LSTM, GAN, LLM
+- **Product Growth**: A/B testing, user behavior analytics, churn modeling, retention dashboards
 
 ### Education
 
