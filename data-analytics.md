@@ -6,6 +6,5 @@
 **[Time Series Analysis: Energy Analytics and Prediction](https://github.com/sakshiiiir/Time-Series-Analysis-Energy-Analytics)** | Python, Flask
 - Applied time series analysis and ARIMA forecasting in Python for energy analytics, optimizing natural gas production, consumption, and management. Extended the project by developing a Flask-based app for user-friendly analysis and future predictions, enabling more accessible and accurate energy forecasting.
 
-
-**[Marketing Campaign AB Testing](https://github.com/sakshiiiir/Statistics/blob/main/Marketing%20-%20Campaign%20AB%20Testing.ipynb)** | Python , Statistical Modeling
+**[Marketing Campaign AB Testing](https://github.com/sakshiiiir/AB-testing/blob/main/Marketing%20-%20Campaign%20AB%20Testing.ipynb)** | Python , Statistical Modeling
 - Performed A/B testing on marketing campaigns using Python to compare the performance of Control and Test campaigns. Analyzed metrics like impressions, reach, website clicks, and purchases to identify the campaign with higher customer conversion rates and optimize marketing strategies.
