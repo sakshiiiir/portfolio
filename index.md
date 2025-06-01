@@ -12,23 +12,24 @@
 
 ### Welcome to My Portfolio!
 
-Welcome! I’m Sakshi Rathi, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
+Hi I’m Sakshi Rathi, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, ETL pipelines, predictive modeling, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
 
 With 2 years of hands-on experience in data analysis, machine learning, and cloud platforms, I bring a cross-functional approach to data science—balancing technical depth with business understanding. I’ve contributed to projects in education, automotive, and public health sectors, helping teams unlock insights and accelerate product growth.
 
-Core Skills:
+### Core Skills:
 
-- Programming: Python, R, SQL, C++, HTML, CSS, MATLAB
-- Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
-- Visualization: Power BI, Tableau, Grafana, looker, Excel,
-- Cloud & Big Data: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
-- AI & ML: LLM, STM, GAN, RNN, CNN, Scikit-learn, SVM, Random Forest, XGBoost
-- Product Growth: A/B testing, user behavior analytics, churn modeling, retention dashboards
+**Programming**: Python, R, SQL, C++, HTML, CSS, MATLAB
+**Frameworks**: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
+**Visualization**: Power BI, Tableau, Grafana, looker, Excel,
+**Cloud & Big Data**: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
+**Machine Learning**: SVM, Random Forest, XGBoost, clustering, CNN, RNN, LSTM, GAN, LLM
+**Product Growth**: A/B testing, user behavior analytics, churn modeling, retention dashboards
 
 ### Education
 
-**Master's in Data Science** | Indiana University Bloomington, USA Aug 2022 - May 2024
-**BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, India Aug 2017 - May 2021
+**Master's in Data Science** | **Indiana University Bloomington, USA** | Aug 2022 - May 2024
+
+**Bachelor of Technology in Electronics and Telecommunication**  | **Vishwakarma Institute of Technology, India** | Aug 2017 - May 2021
 
 ### Work Experience 
 #### [Details](work-exp.md)
