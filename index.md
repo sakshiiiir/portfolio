@@ -12,12 +12,23 @@
 
 ### Welcome to My Portfolio!
 
-Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University Bloomington with 2 years of experience in statistics, data analysis, machine learning. Proficient in Python, R, SQL, and C++, data visualization using tools PowerBi, and Grafana and cloud services of AWS and Azure. Currently, I'm working at Hoosier Community Network, a non-profit organization dedicated to helping small businesses in Indiana address their challenges and adopt AI and automation solutions to streamline their operations.
+Welcome! I’m Sakshi Rathi, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
+
+With 2 years of hands-on experience in data analysis, machine learning, and cloud platforms, I bring a cross-functional approach to data science—balancing technical depth with business understanding. I’ve contributed to projects in education, automotive, and public health sectors, helping teams unlock insights and accelerate product growth.
+
+Core Skills:
+
+- Programming: Python, R, SQL, C++, HTML, CSS, MATLAB
+- Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
+- Visualization: Power BI, Tableau, Grafana, looker, Excel,
+- Cloud & Big Data: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
+- AI & ML: LLM, STM, GAN, RNN, CNN, Scikit-learn, SVM, Random Forest, XGBoost
+- Product Growth: A/B testing, user behavior analytics, churn modeling, retention dashboards
 
 ### Education
 
-**Master's in Data Science** | Indiana University, Bloomington, Aug 2022 - May 2024
-**BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, India, Aug 2017 - May 2021
+**Master's in Data Science** | Indiana University Bloomington, USA Aug 2022 - May 2024
+**BTech in Electronics and Telecommunication**  | Vishwakarma Institute of Technology, India Aug 2017 - May 2021
 
 ### Work Experience 
 #### [Details](work-exp.md)
@@ -26,7 +37,7 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
   </a>
 </p>
 
-### Technologies Used
+### Explore works across key domains
 
 ### Data Analytics
 <p align="center">
@@ -38,7 +49,7 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
   <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </p>
 
-#### [Explore Data Analytics Projects](data-analytics.md)
+#### [Explore Data Analytics Work](data-analytics.md)
 <p align="center">
   <a href="https://github.com/sakshiiiir/portfolio/blob/main/data-analytics.md">
   </a>
@@ -56,14 +67,28 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
   <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-#### [Explore Data Visualization Projects](data-vis.md)
+#### [Explore Data Visualization Work](data-vis.md)
 <p align="center">
   <a href="https://github.com/sakshiiiir/portfolio/blob/main/data-vis.md">
   </a>
 </p>
 
----
+### Product Growth
+<p align="center"> 
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-FF6F61?style=for-the-badge&logo=flask&logoColor=white" alt="A/B Testing"> 
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-4C8CBF?style=for-the-badge&logo=scipy&logoColor=white" alt="Hypothesis Testing"> 
+  <img src="https://img.shields.io/badge/Statistical%20Significance-9B59B6?style=for-the-badge&logo=python&logoColor=white" alt="Statistical Significance"> 
+  <img src="https://img.shields.io/badge/Business%20Impact-2ECC71?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Business Impact"> 
+  <img src="https://img.shields.io/badge/Retention%20Metrics-F1C40F?style=for-the-badge&logo=google-analytics&logoColor=black" alt="Retention Metrics"> 
+</p>
 
+#### [Explore Product Growth](product_growth.md)
+<p align="center">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/product_growth.md">
+  </a>
+</p>
+
+----
 ### Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
@@ -75,7 +100,7 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
 </p>
 
 
-#### [Explore Machine Learning Projects](machine-learning.md)
+#### [Explore Machine Learning Work](machine-learning.md)
 <p align="center">
   <a href="https://github.com/sakshiiiir/portfolio/blob/main/machine-learning.md">
   </a>
@@ -93,9 +118,24 @@ Hi, I'm Sakshi Rathi, I have a Masters in Data Science from Indiana University B
   <img src="https://img.shields.io/badge/GenerativeAI-3DDC84.svg?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI">
 </p>
 
-#### [Explore Deep Learning Projects](deep-learning.md)
+#### [Explore Deep Learning Work](deep-learning.md)
 <p align="center">
   <a href="https://github.com/sakshiiiir/portfolio/blob/main/deep-learning.md">
+  </a>
+</p>
+
+---
+### AI 
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-9B59B6.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"> 
+  <img src="https://img.shields.io/badge/Generative%20AI-3DDC84.svg?style=for-the-badge&logo=google&logoColor=white" alt="Generative AI"> 
+  <img src="https://img.shields.io/badge/RAG-34495E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Retrieval Augmented Generation"> 
+  <img src="https://img.shields.io/badge/AI%20Agents-2ECC71.svg?style=for-the-badge&logo=react&logoColor=white" alt="AI Agents"> 
+</p>
+
+#### [Explore AI work](ai.md)
+<p align="center">
+  <a href="https://github.com/sakshiiiir/portfolio/blob/main/ai.md">
   </a>
 </p>
 
