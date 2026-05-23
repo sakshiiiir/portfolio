@@ -1,42 +1,66 @@
-# Sakshi Rathi's Portfolio
+# Sakshi Rathi — AI Engineer
 
-Welcome! I’m Sakshi Rathi, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshi--k--rathi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakshi-k-rathi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sakshiiiir.github.io-green?style=flat)](https://sakshiiiir.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-sakshi.k.rathi@gmail.com-red?style=flat)](mailto:sakshi.k.rathi@gmail.com)
 
 ## About Me
 
-With 2 years of hands-on experience in data analysis, machine learning, and cloud platforms, I bring a cross-functional approach to data science—balancing technical depth with business understanding. I’ve contributed to projects in education, automotive, and public health sectors, helping teams unlock insights and accelerate product growth.
+AI Engineer with 3+ years of experience building production-grade LLM systems, data pipelines, and AI-first fintech products. I specialize in the full stack of modern AI infrastructure — from RAG pipelines and MCP orchestration to ERP data ingestion and LLM evaluation frameworks — with deployments on GCP, Azure, and AWS.
 
-Core Skills:
+Currently building enterprise AI at **DataChamps** (Pune) — LLM orchestration, hybrid retrieval, and financial automation.
+MS in Data Science · Indiana University Bloomington · GPA 3.73
 
-- Programming: Python, R, SQL, C++, HTML, CSS, MATLAB
-- Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, Tensorflow, Pytorch, Keras
-- Visualization: Power BI, Tableau, Grafana, looker, Excel,
-- Cloud & Big Data: AWS (S3, Lambda, SageMaker), Azure (Data Factory, Synapse, Blob Storage), GCP(BogQuery), Apache Airflow, Kafka, Spark
-- AI & ML: LLM, STM, GAN, RNN, CNN, Scikit-learn, SVM, Random Forest, XGBoost
-- Product Growth: A/B testing, user behavior analytics, churn modeling, retention dashboards
+---
+
+## Featured Projects
+
+### 🤖 [RAG-Based Chatbot](https://github.com/sakshiiiir/RAG-Chatbot-pdf_SQL)
+**LangChain · FAISS · Gemini · Streamlit · Python** · Oct 2025
+
+RAG-powered chatbot with a unified interface to query PDF-based EV reports and CSV sales data. Built an automated SQL-generation pipeline using LangChain's SQL Agent with Gemini Flash — enabling non-technical users to query structured data conversationally.
+
+### 🧠 [BERT Fine-Tuning for Phishing URL Classification](https://github.com/sakshiiiir/Finetuning-LLM)
+**BERT · Hugging Face · PyTorch · Python** · Dec 2024
+
+Fine-tuned BERT (bert-base-uncased) for binary phishing URL classification — achieved 90% accuracy and high AUC on a real-world threat dataset, outperforming baseline ML classifiers. Built the end-to-end pipeline including tokenization, custom classification head, and hyperparameter tuning.
+
+---
+
+## Technical Skills
+
+| Area | Tools |
+|------|-------|
+| AI / LLM & GenAI | LangChain, LangGraph, RAG, LLM-as-a-Judge, LoRA Fine-Tuning, MCP Orchestration, OpenAI API, Anthropic API, Pydantic |
+| Machine Learning | Scikit-learn, XGBoost, TensorFlow, PyTorch, LSTM, ARIMA, PointNet++ |
+| Backend & APIs | FastAPI, Flask, Docker, Apache Airflow, dbt, Cloud Run |
+| Databases | PostgreSQL, MySQL, Snowflake, InfluxDB, FAISS, Pinecone |
+| Cloud | GCP (Vertex AI, Cloud Run), Azure (Data Factory, Synapse), AWS (S3, SageMaker) |
+| Programming | Python, TypeScript, SQL |
+| BI & Visualization | Tableau, Power BI, Grafana |
+
+---
+
+## Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| AI Engineer | DataChamps Pvt Ltd | Oct 2025 – Present |
+| Data Scientist | Hoosier Community Network | May 2024 – Jun 2025 |
+| Data Scientist | Magna International | May 2023 – Aug 2023 |
+| Data Scientist | Continental AG | Aug 2021 – May 2022 |
+
+Full details on [LinkedIn →](https://www.linkedin.com/in/sakshi-k-rathi/)
+
+---
 
 ## Education
 
-- **Master's in Data Science** | Indiana University Bloomington (Aug 2022 - May 2024)
-- **BTech in Electronics and Telecommunication** | Vishwakarma Institute of Technology (Aug 2017 - May 2021)
+- **MS Data Science** · Indiana University Bloomington · GPA 3.73 · 2022–2024
+- **BTech Electronics & Telecommunication** · Vishwakarma Institute of Technology · 2017–2021
 
-## Work
-
-Explore selected works across key domains:
-
-- [Data Analytics](data-analytics.md)
-- [Product Growth](product_growth.md)
-- [Data Visualization](data-vis.md)
-- [Machine Learning](machine-learning.md)
-- [Deep Learning](deep-learning.md)
-- [AI](ai.md)
+---
 
 ## Certifications
 
-You can view my certifications [here](https://github.com/sakshiiiir/portfolio/blob/main/certf.md).
-
-## Get in Touch
-
-Feel free to reach out via my [Email](mailto:sakshi.k.rathi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sakshi-k-rathi/).
-
+View all certifications [here](https://github.com/sakshiiiir/portfolio/blob/main/certf.md).

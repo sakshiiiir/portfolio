@@ -1,16 +1,10 @@
-# title: Sakshi Rathi
-# logo: /assets/img/edit5.png
-# description: text below image
-# show_downloads: true
-# theme: jekyll-theme-minimal
-
 # Site configuration
 title: "Sakshi Rathi"
 logo: /assets/img/edit5.png
-description: #text below image #"Data Scientist | Data Analyst | Machine Learning Enthusiast"
-show_downloads: true
-url: "https://sakshiiiir.github.io"  # URL for GitHub Pages
-baseurl: "/portfolio"  # Adjust this to match your repo name on GitHub Pages
+description: "AI Engineer · LLMs, RAG & Fintech AI Systems · MS Data Science, Indiana University"
+show_downloads: false
+url: "https://sakshiiiir.github.io"
+baseurl: "/portfolio"
 
 # Author information
 author:
@@ -20,39 +14,35 @@ author:
     linkedin: "https://www.linkedin.com/in/sakshi-k-rathi/"
     github: "https://github.com/sakshiiiir"
 
-# Theme settings
-theme: jekyll-theme-minimal  # You can choose a theme that suits your style
+# Theme
+theme: jekyll-theme-minimal
 
-# Navigation settings
+# Navigation
 nav:
   - title: "Home"
-    url: "{{ site.baseurl }}/"
+    url: "/"
   - title: "Work Experience"
-    url: "{{ site.baseurl }}/work-exp.md"
-  - title: "Data Analytics"
-    url: "{{ site.baseurl }}/data-analytics.md"
-  - title: "Data Visualization"
-    url: "{{ site.baseurl }}/data-vis.md"
+    url: "/work-exp"
+  - title: "AI Projects"
+    url: "/ai"
   - title: "Machine Learning"
-    url: "{{ site.baseurl }}/machine-learning.md"
+    url: "/machine-learning"
   - title: "Deep Learning"
-    url: "{{ site.baseurl }}/deep-learning.md"
+    url: "/deep-learning"
+  - title: "Data Analytics"
+    url: "/data-analytics"
+  - title: "Data Visualization"
+    url: "/data-vis"
   - title: "Certifications"
-    url: "{{ site.baseurl }}/certf.md"
+    url: "/certf"
 
 # Additional settings
-show_excerpts: true  # Show excerpts on the homepage
-paginate: 5  # Number of items per page in lists
+show_excerpts: true
 
-# Theme settings for dark mode
-theme_settings:
-  dark_mode: true  # Enables dark mode if supported by the theme
-
-# Custom CSS for dark mode
+# Custom CSS
 sass:
   load_paths:
     - assets/css
 
-# Add this line to include your custom CSS
 include:
   - assets/css/dark-mode.css
